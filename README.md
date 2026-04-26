@@ -25,7 +25,7 @@
 ###  estadísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="Stats de Ivan" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ivanelningo&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="Stats de Ivan" height="150" />
 </p>
 
 ---
