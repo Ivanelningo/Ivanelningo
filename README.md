@@ -1,10 +1,10 @@
-# 👨‍💻 ivan
+#  Ivan
 
 **Computer Engineering Student @ UPC (FIB)** 
 
 ---
 
-### 🛠️ stack tecnológico
+###  stack tecnológico
 
 | Categoría | Tecnologías |
 | :--- | :--- |
@@ -14,15 +14,15 @@
 
 ---
 
-### 🔍 sobre mí
+###  sobre mí
 
-- 🎓 Estudiante de **Ingeniería Informática** en la **Universitat Politècnica de Catalunya (UPC)**.
-- 🕹️ Apasionado por el desarrollo de motores gráficos y la optimización de sistemas.
-- 🐧 Usuario de entornos Linux y entusiasta del código eficiente.
+-  Estudiante de **Ingeniería Informática** en la **Universitat Politècnica de Catalunya (UPC)**.
+-  Apasionado por el desarrollo de motores gráficos y la optimización de sistemas.
+-  Usuario de entornos Linux y entusiasta del código eficiente.
 
 ---
 
-### 📊 estadísticas
+###  estadísticas
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="Stats de Ivan" height="150" />
